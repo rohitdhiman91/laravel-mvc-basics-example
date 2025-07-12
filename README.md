@@ -159,7 +159,7 @@ Feel free to fork, star, or extend this repo! Pull requests are welcome for:
 Follow me for beginner-friendly Laravel content on:
 
 * GitHub: [@rohitdhiman91](https://github.com/rohitdhiman91)
-* Substack: rohitdhiman91.substack.com
+* Substack: https://rohitdhiman91.substack.com
 * Instagram: [@rohitdhiman91](https://instagram.com/rohitdhiman91)
 
 ---
